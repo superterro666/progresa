@@ -1,0 +1,8 @@
+{
+    "name": "PROGRESA_2T",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "terro",
+    "contributors": [],
+    "dependencies": {}
+}
